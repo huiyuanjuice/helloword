@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  prinrtf("hello,world!");
+  return 0;
+  }
